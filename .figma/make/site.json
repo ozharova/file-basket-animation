@@ -1,0 +1,10 @@
+{
+  "description": "Create and customize finance-themed animations with tailored colors and effects, perfect for finance professionals seeking engaging visual content.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
